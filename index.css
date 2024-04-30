@@ -1,0 +1,27 @@
+.sh{
+  background-image: url(https://img.freepik.com/free-photo/movie-background-collage_23-2149876028.jpg);
+  background-size: auto;
+  color:violet;
+}
+a {
+    color:aqua;
+}
+
+.bc {
+    color : white;
+    background-image: url(https://motionbgs.com/media/5096/kakashi-hatake-naruto.jpg) ;
+    background-size: auto;
+}
+H3 {
+    color:chartreuse
+}
+
+h1 {
+    color:violet;
+}
+h4 {
+    color:sandybrown
+}
+p{
+    color:antiquewhite
+}
